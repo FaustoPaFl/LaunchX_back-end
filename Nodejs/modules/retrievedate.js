@@ -1,0 +1,3 @@
+exports.RetrieveDate = ()=>{
+    return Date();
+}
