@@ -1,0 +1,20 @@
+{
+  "name": "node-and-express",
+  "version": "1.0.0",
+  "description": "node-and-express",
+  "main": "index.js",
+  "scripts": {
+    "santa": "node santa.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FaustoPaFl/LaunchX_back-end.git"
+  },
+  "author": "FaustoPalmaFlores",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FaustoPaFl/LaunchX_back-end/issues"
+  },
+  "homepage": "https://github.com/FaustoPaFl/LaunchX_back-end#readme"
+}
